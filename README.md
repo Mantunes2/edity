@@ -1,9 +1,15 @@
-# edity
-<p>Editor de texto criado em Python, Com a biblioteca PySimpleGUI.<p>
-<p>Python versão: 3.9.0<p>
-<p>PySimpleGUI versão: 4.56.0<p>
+# pyEdit
+Editor de texto criado em Python.
+
+Requisitos:
+- Python >= 3.9.0
+- PySimpleGUI >= 4.56.0
   
-<h1>Redes socias<h1>
-<p>Facebook: https://www.facebook.com/mtantunez/<p>
-<p>Instagram: https://www.instagram.com/mantunes_2/<p>
-<p>Twitter: https://twitter.com/mtasa_<p>
+Como instalar os requisitos: 
+- Python: https://www.python.org/downloads/
+- PySimpleGUI: https://pysimplegui.readthedocs.io/en/latest/
+
+Redes socias:
+- Facebook: https://www.facebook.com/mtantunez/
+- Instagram: https://www.instagram.com/mantunes_2/
+- Twitter: https://twitter.com/mtasa_
